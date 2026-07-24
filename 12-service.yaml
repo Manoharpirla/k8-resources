@@ -1,4 +1,4 @@
-kind: sevice
+kind: Sevice
 apiVersion: v1
 metadata:
    name: nginx
