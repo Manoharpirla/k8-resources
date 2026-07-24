@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx
+        image: pirlamanohar/nginx:1.0
         ports:
         - containerPort: 80
 ---
